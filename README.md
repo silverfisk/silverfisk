@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 ![silverfisk's github stats](https://github-readme-stats.vercel.app/api?username=silverfisk&show_icons=true)
 
-![GitHub followers](https://img.shields.io/github/followers/silverfisk.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/silverfisk?tab=followers)
+![GitHub followers](https://img.shields.io/github/followers/silverfisk.svg?style=social&label=Follow&maxAge=2592000)]
