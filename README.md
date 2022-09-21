@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 -->
 
 
-![silverfisk's github stats](https://github-readme-stats.vercel.app/api?username=silverfisk&show_icons=true)
+![silverfisk's Stats](https://github-readme-stats.vercel.app/api?username=silverfisk&theme=merko&show_icons=true&hide_border=false&count_private=false)
 
 ![GitHub followers](https://img.shields.io/github/followers/silverfisk.svg?style=social&label=Follow&maxAge=2592000)]
